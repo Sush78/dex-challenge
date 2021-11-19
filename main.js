@@ -1,6 +1,6 @@
 /** Connect to Moralis server */
-const serverUrl = "https://cjjbh1yy3kg5.usemoralis.com:2053/server";
-const appId = "1oaAM93WJySACCpHUQAuSu7vBwqEXwrxjJ4aYLBW";
+const serverUrl = "<server_url>";
+const appId = "<app_id>";
 let currentTrade = {};
 let currentSelectSide;
 let tokens;
